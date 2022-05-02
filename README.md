@@ -20,4 +20,7 @@ class SinAzucar // Es la superclase
   {return 100-vasos;
   }
 }
-![image](https://user-images.githubusercontent.com/49157674/166312598-de3bd455-216a-4bf5-97e0-289030030242.png)
+
+![image](https://user-images.githubusercontent.com/49157674/166339417-5d662430-363e-4541-8f96-e3eec2185255.png)
+
+
